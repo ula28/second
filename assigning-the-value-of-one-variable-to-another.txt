@@ -1,0 +1,9 @@
+// Setup
+var a;
+a = 7;
+var b;
+var c;
+b = a;
+c = a;
+
+// Only change code below this line
