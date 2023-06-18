@@ -1,0 +1,4 @@
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
